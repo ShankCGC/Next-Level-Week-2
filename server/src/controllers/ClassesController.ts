@@ -38,7 +38,7 @@ export default class ClassesContoller {
       .join('users', 'classes.user_id', '=', 'users.id')
       .select(['classes.*', 'users.*'])
 
-    return res.send()
+    return res.status(200).json(classes)
   }
 
   async create (req: Request, resp: Response) {
