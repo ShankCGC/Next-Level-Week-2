@@ -8,6 +8,10 @@ const styles = StyleSheet.create({
 
   teacherList: {
     marginTop: -40
+  },
+
+  scrollFavoritesList: {
+    marginTop: -30
   }
 })
 
