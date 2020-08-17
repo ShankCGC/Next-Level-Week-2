@@ -4,7 +4,9 @@
 
 &nbsp;
 
-It is a platform for distance learning. Where the teacher can register his class and the student contact him by Whatsapp.
+## It is a platform for distance learning. Where the teacher can register his class and the student contact him by Whatsapp.
+
+&nbsp;
 
 **✔️ To use the web system you must follow the steps below::**
 
