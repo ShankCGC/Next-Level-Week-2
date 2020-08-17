@@ -1,6 +1,10 @@
 # 📕 Next Level Week 2
 
-### 📖 | Proffy site made during NLW-2.It is a platform for distance learning. Where the teacher can register his class and the student contact him by Whatsapp.
+### 📖 | Proffy site made during NLW-2.
+
+&nbsp;
+
+It is a platform for distance learning. Where the teacher can register his class and the student contact him by Whatsapp.
 
 **✔️ To use the web system you must follow the steps below::**
 
@@ -26,7 +30,9 @@
 
 2. You must first clone the repository for your machine
 
-3. Second, you must insert the web folder, install the dependencies and activate it.
+3. You must also enter the folder mobile/src /services/api.ts and change the baseURL to your ip! Ex: http://YOURIP:3333
+
+3. After, you must insert the mobile folder, install the dependencies and activate it.
 - *cd mobile*
 - *npm i*
 - *npm start*
