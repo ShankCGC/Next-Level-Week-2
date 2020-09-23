@@ -55,12 +55,6 @@
 
 9. After following these steps, you will be able to use the application normally
 
-> 📋 **Things to do:**
-
-- [x] Add the backend
-- [x] Add the frontend
-- [x] Make the mobile app
-
 > 📷 **System images ( Desktop ):**
 
 ![Web 1](https://user-images.githubusercontent.com/57328274/90399808-f08e3800-e071-11ea-82ec-aed26bc65778.png)
