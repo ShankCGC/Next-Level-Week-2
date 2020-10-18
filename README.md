@@ -57,11 +57,11 @@
 
 **10.** After following these steps, you will be able to use the application normally
 
-## 📷💻 System images ( Desktop ):
+#### 📷💻 System images ( Desktop ):
 
 ![Web 1](https://user-images.githubusercontent.com/57328274/90399808-f08e3800-e071-11ea-82ec-aed26bc65778.png)
 
-## 📷📱 System images ( Mobile ):
+#### 📷📱 System images ( Mobile ):
 
 ![WhatsApp Image 2020-08-17 at 11 39 23](https://user-images.githubusercontent.com/57328274/90408908-e292e400-e07e-11ea-87cd-d53c3dab6a02.jpeg)
 
@@ -69,4 +69,4 @@
 
 <p align="center">I hope you enjoy ! 😄</p>
 
-<h5>Made by: ShankCGC 🖤</h5>
+<h5 align="center">Made by: ShankCGC 🖤</h5>
