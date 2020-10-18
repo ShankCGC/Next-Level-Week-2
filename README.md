@@ -53,6 +53,7 @@
 - *Open ANOTHER terminal*
 - *cd server*
 - *npm i*
+- *npm run knex:migrate*
 - *npm start*
 
 **10.** After following these steps, you will be able to use the application normally
