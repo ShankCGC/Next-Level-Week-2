@@ -10,6 +10,8 @@
 
 &nbsp;
 
+---
+
 ## 💻 To use the web system you must follow the steps below:
 
 **1.** To use the repository, you must have Nodejs installed on your machine
