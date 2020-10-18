@@ -5,7 +5,7 @@
 &nbsp;
 
 <p align="center">
- It is a platform for distance learning. Where the teacher can register his class and the student contact him by Whatsapp. And in the mobile application, the student is able to add and remove teachers to their list of favorites. 👨‍🎓👩‍🎓
+👨‍🏫 It is a platform for distance learning. Where the teacher can register his class and the student contact him by Whatsapp. And in the mobile application, the student is able to add and remove teachers to their list of favorites. 👩‍🎓
 </p>
 
 &nbsp;
