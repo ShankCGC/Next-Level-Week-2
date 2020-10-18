@@ -10,7 +10,7 @@
 
 &nbsp;
 
-## 💻 To use the web system you must follow the steps below::
+## 💻 To use the web system you must follow the steps below:
 
 **1.** To use the repository, you must have Nodejs installed on your machine
 
@@ -28,7 +28,7 @@
 
 **5.** After connecting the frontend and the server, you can use the system.
 
-## 📱 To use the app system you must follow the steps below::
+## 📱 To use the app system you must follow the steps below:
 
 **1.** To use the repository, you must have Nodejs and Expo installed on your machine ( To install Expo, follow these steps: https://docs.expo.io/get-started/installation/ )
 
