@@ -21,6 +21,7 @@
 **3.** Second, you must insert the server folder, install the dependencies and activate it.
 - *cd server*
 - *npm i*
+- *npm run knex:migrate*
 - *npm start*
 
 **4.** After connecting the server, in ANOTHER terminal you will connect the frontend , install the dependencies and activate it.
