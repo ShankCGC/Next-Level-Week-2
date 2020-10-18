@@ -1,10 +1,12 @@
-# 📕 Next Level Week 2
+<h1 align="center">📕 Next Level Week 2</h1>
 
-### 📖 | Proffy site made during NLW-2.
+<h3 align="center">📖 | Proffy site made during NLW-2.</h3>
 
 &nbsp;
 
-#### It is a platform for distance learning. Where the teacher can register his class and the student contact him by Whatsapp. And in the mobile application, the student is able to add and remove teachers to their list of favorites.
+<p align="center">
+ It is a platform for distance learning. Where the teacher can register his class and the student contact him by Whatsapp. And in the mobile application, the student is able to add and remove teachers to their list of favorites.
+</p>
 
 &nbsp;
 
