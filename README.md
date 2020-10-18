@@ -28,6 +28,8 @@
 
 **5.** After connecting the frontend and the server, you can use the system.
 
+---
+
 ## 📱 To use the app system you must follow the steps below:
 
 **1.** To use the repository, you must have Nodejs and Expo installed on your machine ( To install Expo, follow these steps: https://docs.expo.io/get-started/installation/ )
@@ -58,9 +60,13 @@
 
 **10.** After following these steps, you will be able to use the application normally
 
+---
+
 #### 📷💻 System images ( Desktop ):
 
 ![Web 1](https://user-images.githubusercontent.com/57328274/90399808-f08e3800-e071-11ea-82ec-aed26bc65778.png)
+
+---
 
 #### 📷📱 System images ( Mobile ):
 
