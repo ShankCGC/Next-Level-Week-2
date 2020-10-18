@@ -10,21 +10,21 @@
 
 > **✔️ To use the web system you must follow the steps below::**
 
-1. To use the repository, you must have Nodejs installed on your machine
+**1**. To use the repository, you must have Nodejs installed on your machine
 
-2. You must first clone the repository for your machine
+**2**. You must first clone the repository for your machine
 
-3. Second, you must insert the server folder, install the dependencies and activate it.
+**3**. Second, you must insert the server folder, install the dependencies and activate it.
 - *cd server*
 - *npm i*
 - *npm start*
 
-4. After connecting the server, in ANOTHER terminal you will connect the frontend , install the dependencies and activate it.
+**4**. After connecting the server, in ANOTHER terminal you will connect the frontend , install the dependencies and activate it.
 - *cd web*
 - *npm i*
 - *npm start*
 
-5. After connecting the frontend and the server, you can use the system.
+**5**. After connecting the frontend and the server, you can use the system.
 
 > **✔️ To use the app system you must follow the steps below::**
 
