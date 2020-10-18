@@ -10,7 +10,7 @@
 
 &nbsp;
 
-> **✔️ To use the web system you must follow the steps below::**
+## 💻 To use the web system you must follow the steps below::
 
 **1.** To use the repository, you must have Nodejs installed on your machine
 
@@ -28,7 +28,7 @@
 
 **5.** After connecting the frontend and the server, you can use the system.
 
-> **✔️ To use the app system you must follow the steps below::**
+## 📱 To use the app system you must follow the steps below::
 
 **1.** To use the repository, you must have Nodejs and Expo installed on your machine ( To install Expo, follow these steps: https://docs.expo.io/get-started/installation/ )
 
@@ -57,18 +57,16 @@
 
 **10.** After following these steps, you will be able to use the application normally
 
-> 📷 **System images ( Desktop ):**
+## 📷💻 System images ( Desktop ):
 
 ![Web 1](https://user-images.githubusercontent.com/57328274/90399808-f08e3800-e071-11ea-82ec-aed26bc65778.png)
-![Web 2](https://user-images.githubusercontent.com/57328274/90399809-f126ce80-e071-11ea-8cc9-931149aec00e.png)
-![Web 3](https://user-images.githubusercontent.com/57328274/90399803-ef5d0b00-e071-11ea-8fb7-6394694d2f1e.png)
 
-> 📷 **System images ( Mobile ):**
+## 📷📱 System images ( Mobile ):
 
 ![WhatsApp Image 2020-08-17 at 11 39 23](https://user-images.githubusercontent.com/57328274/90408908-e292e400-e07e-11ea-87cd-d53c3dab6a02.jpeg)
-![WhatsApp Image 2020-08-17 at 11 39 23 (1)](https://user-images.githubusercontent.com/57328274/90408906-e1fa4d80-e07e-11ea-925d-e2d030ec945b.jpeg)
-![WhatsApp Image 2020-08-17 at 11 39 23 (2)](https://user-images.githubusercontent.com/57328274/90408910-e292e400-e07e-11ea-8cb7-f2db146bb0f4.jpeg)
 
-#### I hope you enjoy ! 😄
+---
 
-###### Made by: ShankCGC 🖤
+<p align="center">I hope you enjoy ! 😄</p>
+
+<h5>Made by: ShankCGC 🖤</h5>
