@@ -79,4 +79,4 @@
 
 <p align="center">I hope you enjoy ! 😄</p>
 
-<h5 align="center">Made by: ShankCGC 🖤</h5>
+<h5 align="center">Made by: Shank7 🤍</h5>
